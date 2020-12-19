@@ -2,17 +2,17 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Dimitar Pendurkov | Software Engineer', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my website!', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, my name is', //Hello my name is
+  name: 'Dimitar', //Name
+  subtitle: 'I am a Software Developer', //I'm a Developer
+  cta: 'Learn more...', //Know more
 };
 
 // ABOUT DATA
