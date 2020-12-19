@@ -28,38 +28,20 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project.png',
+    title: 'Conways Game of Life',
+    info: 'I developed an application replicating Conways Game of Life using C++. It uses the Cinder library for the GUI.',
+    info2: 'It functions as you would expect with an added bonus of a custom soundtrack during the simulation!',
+    url: 'GitHub',
+    repo: 'https://github.com/tpjwm/game-of-life', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Send me an email',
   btn: '',
-  email: '',
+  email: 'dimitar3@illinois.edu',
 };
 
 // FOOTER DATA
@@ -67,23 +49,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/dimitarpendurkov/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/tpjwm',
     },
   ],
 };
