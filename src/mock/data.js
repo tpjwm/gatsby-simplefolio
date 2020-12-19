@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a software engineer studying Computer Science at the Univeristy of Illinois at Urbana-Champaign. I love learning and creating cool applications.',
+  paragraphOne: 'I am a software engineer studying Computer Science at the Univeristy of Illinois at Urbana-Champaign.',
   paragraphTwo: 'I am interested in many different areas including Web, Mobile, Back-end, and Application Development. I also have an interest in Cyber Security.',
-  paragraphThree: 'Passionate about all things science and tech.',
+  paragraphThree: 'I love learning and I am passionate about all things science and tech.',
   resume: '/dimitar_resume.pdf', // if no resume, the button will not show up
 };
 
