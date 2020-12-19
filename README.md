@@ -205,7 +205,7 @@ export const footerData = {
 
 ### Required - Disable GitHub buttons
 
-Set `isEnabled` to `false` once you finish setup your portfolio.\
+Set `isEnabled` to `false` once you finish setting up your portfolio.\
 By setting to `false` it will hide the GitHub stars/fork buttons
 
 ```javascript
